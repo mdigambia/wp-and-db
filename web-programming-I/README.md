@@ -23,3 +23,6 @@
 
 ## Week 3
 
+- Continue implementing the profile page
+- Assignment story page
+

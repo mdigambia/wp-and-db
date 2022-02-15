@@ -26,7 +26,7 @@ The technologies we will explore here are React, Redux, Node.js, MongoDB, GraphQ
 
 ## Week 3
 
-- Review the Static UI of the Phonebook
+- Review the Static UI of the Phonebook Assignment
 - Turn the Static UI into React
 - Turn all the excel data into JSON - Assignment (show them one and let them go and do the rest)
 

@@ -37,4 +37,5 @@ You are going to write a brief summary of the specific domains (Mariama Deliciou
 
 ## Week 4
 
-- Implementing the problems
+- Implementing the problems with MySQL
+- Implementing the problems with MoongoDB
