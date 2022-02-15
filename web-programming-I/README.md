@@ -7,7 +7,7 @@
 ### Week 1
 
 - Gearing up and tooling (typora)
-- profile card destructuring (to use that as way to introduce HTML & CSS)
+- profile card destructuring (to use that as a way to introduce HTML & CSS)
 - Phone book assignment (copy 20 VIP contacts from you phone - give them the format)
 - Reading assignment on MDN beginer resources (Journal writing on that with code example - show them how to do code example with typora)
 
@@ -20,4 +20,6 @@
   - How to stay organize
   - case sensitivity
   - VS Code, how to start a project
+
+## Week 3
 

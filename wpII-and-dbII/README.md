@@ -20,9 +20,17 @@ The technologies we will explore here are React, Redux, Node.js, MongoDB, GraphQ
 
 ## Week 2
 
-- Review assign reading give questions for the students to answer (writing journal)
-- Implement the Phonebook UI into HTML and CSS
-- Turn that excel data into Objects - Assignment (show them one and let them go and do the rest)
+- Review assign reading one reading give questions for the students to answer (writing journal)
+- Introduction to React (Components, Props)
+- Assignment: Implement the Phonebook UI into HTML, CSS and plain JavaScript
 
 ## Week 3
+
+- Review the Static UI of the Phonebook
+- Turn the Static UI into React
+- Turn all the excel data into JSON - Assignment (show them one and let them go and do the rest)
+
+## Week 4
+
+- Pull data from the server
 
