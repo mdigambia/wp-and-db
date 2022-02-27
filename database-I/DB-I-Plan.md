@@ -27,15 +27,22 @@ You are going to write a brief summary of the specific domains (Mariama Deliciou
 - Notations
 - Students implement the reviews and update the diagrams
 
-## Week 3
+## Week 3 (was holiday)
 
 - Diagramming (MS Visio, EDraw, MySLQ Workbench)
   - Crows Foot
   - UML Diagramming
 - Give solutions to the problems
-- Assignment - Turn the crows foot to a UML Diagram
+- Assignment - Turn the  crows foot to a UML Diagram
+- Assignment - Install Laragon
 
 ## Week 4
 
 - Implementing the problems with MySQL
+
+
+
+## Week 5
+
+- Data modeling MoogoDB
 - Implementing the problems with MoongoDB
