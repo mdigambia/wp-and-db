@@ -23,6 +23,19 @@
 
 ## Week 3
 
-- Continue implementing the profile page
-- Assignment story page
+- Continue implementing the profile page and check student code to see weaknesses
+- Assignment story page - release
+
+## Week 4
+
+- Assignment story page - mark
+- CSS - inplementation of the story page
+- More CSS slectors, cascade, specificity, units and box model
+- Assignment - About page - release (implement both HTML and CSS)
+
+## Weak 5
+
+- Assignment - About page - mark
+
+
 
