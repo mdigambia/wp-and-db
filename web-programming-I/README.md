@@ -30,12 +30,17 @@
 
 - Assignment story page - mark
 - CSS - inplementation of the story page
-- More CSS slectors, cascade, specificity, units and box model
-- Assignment - About page - release (implement both HTML and CSS)
+- More CSS selectors, cascade, inheritance, specificity, units and box model
+- Assignment about page - release
 
 ## Weak 5
 
-- Assignment - About page - mark
+- Assignment about page - mark
+- Personal website
+- Use the personal website design to introduce
+  - Page layout
+  - multiple pages
+- Assignment (Writing)
 
 
 

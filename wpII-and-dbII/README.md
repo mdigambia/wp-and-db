@@ -32,5 +32,17 @@ The technologies we will explore here are React, Redux, Node.js, MongoDB, GraphQ
 
 ## Week 4
 
-- Pull data from the server
+- Intall JSON and AXIOs and then copy the json data to the db.json file
+- Pull data from the json server
+- Assignement the implement the form just the static version - (send the design)
 
+## Week 5
+
+- Mark the assignment
+- implement the the form handles and make sure data is save to the JSON server
+- Implement the search/filtering a contact
+- Assignment - Install Mongo DB Comunity server and Compass and read the MongoDB docs
+
+## Week 6
+
+- Intro to Mongo DB

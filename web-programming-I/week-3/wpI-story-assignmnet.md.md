@@ -18,7 +18,7 @@ Here are the steps you need to get started
 
    1. **index.html** - a file
    2. **images** - a folder
-   3. **styles** - a folder - Inside styles folder create **main.css**
+   3. **styles** - a folder - Inside styles folder create **style.css**
 
 4. In the index.html file, generate the Doctype and update the title to **Story Page** 
 

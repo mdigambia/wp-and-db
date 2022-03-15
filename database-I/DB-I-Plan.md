@@ -38,11 +38,15 @@ You are going to write a brief summary of the specific domains (Mariama Deliciou
 
 ## Week 4
 
-- Implementing the problems with MySQL
-
-
+- Implementing the problems using MS Excel as Example 
+- Compare MS Excel and Database
+- Implement the problem with SQL using Laragon 
+- Assignment - Complete the MS Excel example and fill in the real data
 
 ## Week 5
 
-- Data modeling MoogoDB
-- Implementing the problems with MoongoDB
+- Mark the MS Excel assignment
+- Continue - Implement the problem with SQL using Laragon 
+- Assignment: 
+  - Give a problem from another specific domain for them to model
+  - Implement it using both MS Excel and SQL
