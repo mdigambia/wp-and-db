@@ -33,4 +33,4 @@ Once you have the model drawn with Crow's foot notation, implement the same mode
 
 ---
 
-DUE: 4th March, 2022 @ 9:30 AM in class - Late assignments will not accepted.
+DUE: 17th March, 2022 @ 9:30 AM in class - Late assignments will not accepted.

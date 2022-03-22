@@ -4,7 +4,9 @@ A. Camariana, E. Touray & E. Faal
 
 ---
 
-In this assignment, you are going to write the content of the about page.
+In this assignment, you are going to write the **content** of the about page. You can use **TYPORA** or **MS WORD** to write the content. This will make it easy for us to copy and paste the content in to our code. 
+
+You should also print and submit the hard copy
 
 Write no more than a page about you
 
@@ -47,4 +49,4 @@ I eventually returned to London to become a more settled, "normal" adult, and ha
 
 ---
 
-DUE: 17th March, 2022 @ 9:30 AM in class - Late assignments will not accepted.
+DUE: 24th March, 2022 @ 9:30 AM in class - Late assignments will not accepted.

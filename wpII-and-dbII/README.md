@@ -41,8 +41,10 @@ The technologies we will explore here are React, Redux, Node.js, MongoDB, GraphQ
 - Mark the assignment
 - implement the the form handles and make sure data is save to the JSON server
 - Implement the search/filtering a contact
-- Assignment - Install Mongo DB Comunity server and Compass and read the MongoDB docs
+- Assignment - Implement if the user look for a contact that is not in the contact it should say  contact not there.
 
 ## Week 6
 
+- Implement the contact view page (send the designs)
+- Assignment - Install Mongo DB Comunity server and Compass and read the MongoDB docs
 - Intro to Mongo DB
