@@ -38,9 +38,41 @@
 - Assignment about page - mark
 - Personal website
 - Use the personal website design to introduce
-  - Page layout
+  - Page layout (Header and footer)
   - multiple pages
-- Assignment (Writing)
+- Assignment (Writing the content of about me)
+
+## Week 6
+
+- mark the about assignment
+- personal website (masthead and banner)
+- implement the home page sections
+- Assignment - Do the about page with your content and pictures (hand over the designs)
+
+## Week 7
+
+- mark the about assignment and the rest of the pages
+- Intro to Git and GitHub Pages
+
+## Week 8
+
+- Continue on Intro to Git and GitHub Pages
+- Deploy the personal website to the internet and share the link
+
+## Week 9
+
+- The restaurant website design brief
+- Create a Git repo and use it to commit code for the website at every stage/feature
+
+## Week 10
+
+- Continue the restaurant website design implementation
+
+
+
+
+
+
 
 
 

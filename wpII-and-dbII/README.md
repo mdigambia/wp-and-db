@@ -32,7 +32,7 @@ The technologies we will explore here are React, Redux, Node.js, MongoDB, GraphQ
 
 ## Week 4
 
-- Intall JSON and AXIOs and then copy the json data to the db.json file
+- Intall JSON SERVER and AXIOs and then copy the json data to the db.json file
 - Pull data from the json server
 - Assignement the implement the form just the static version - (send the design)
 
@@ -45,6 +45,23 @@ The technologies we will explore here are React, Redux, Node.js, MongoDB, GraphQ
 
 ## Week 6
 
-- Implement the contact view page (send the designs)
+- mark the assignments
+- Re-factor the code to use services
+- Implement edit and delete
+- Assignment - Implement the contact view page  (implement the design into JSX (only HTML and CSS))
 - Assignment - Install Mongo DB Comunity server and Compass and read the MongoDB docs
-- Intro to Mongo DB
+
+## Week 7
+
+- Implement the contact view page in React
+- Intro to MongoDB University
+- Asignment - Register at MongoDB university and try the [M001](https://university.mongodb.com/courses/M001/about) course 
+
+
+
+## Week 8
+
+- 
+
+
+

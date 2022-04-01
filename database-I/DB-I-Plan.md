@@ -50,3 +50,12 @@ You are going to write a brief summary of the specific domains (Mariama Deliciou
 - Assignment: 
   - Give a problem from another specific domain for them to model
   - Implement it using both MS Excel and SQL
+
+## Week 6
+
+
+
+
+
+## Week 7
+
